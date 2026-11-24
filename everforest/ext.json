@@ -1,0 +1,18 @@
+{
+  "identifier": "org.notethemes.community.everforest",
+  "name": "Everforest Dark",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A dark Standard Notes theme inspired by Everforest Dark.",
+  "url": "__BASE_URL__/everforest/theme.css",
+  "download_url": "__BASE_URL__/everforest/theme.zip",
+  "latest_url": "__BASE_URL__/everforest/ext.json",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#2d353b",
+    "foreground_color": "#a7c080",
+    "border_color": "#a7c080"
+  },
+  "statusBar": "light-content"
+}

@@ -1,0 +1,18 @@
+{
+  "identifier": "org.notethemes.community.tokyo-night",
+  "name": "Tokyo Night",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A dark Standard Notes theme inspired by Tokyo Night.",
+  "url": "__BASE_URL__/tokyo-night/theme.css",
+  "download_url": "__BASE_URL__/tokyo-night/theme.zip",
+  "latest_url": "__BASE_URL__/tokyo-night/ext.json",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#1a1b26",
+    "foreground_color": "#7aa2f7",
+    "border_color": "#7aa2f7"
+  },
+  "statusBar": "light-content"
+}

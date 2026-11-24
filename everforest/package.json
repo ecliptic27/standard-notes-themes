@@ -1,0 +1,7 @@
+{
+  "name": "sn-everforest",
+  "version": "1.0.0",
+  "sn": {
+    "main": "theme.css"
+  }
+}

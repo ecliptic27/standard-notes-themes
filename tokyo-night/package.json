@@ -1,0 +1,7 @@
+{
+  "name": "sn-tokyo-night",
+  "version": "1.0.0",
+  "sn": {
+    "main": "theme.css"
+  }
+}
