@@ -5,9 +5,9 @@
   "area": "themes",
   "version": "1.1.0",
   "description": "A dark Standard Notes theme inspired by Everforest Dark.",
-  "url": "https://ecliptic27.github.io/standard-notes-themes/everforest/theme.css",
-  "download_url": "https://ecliptic27.github.io/standard-notes-themes/everforest/theme.zip",
-  "latest_url": "https://ecliptic27.github.io/standard-notes-themes/everforest/ext.json",
+  "url": "https://ecliptic27.github.io/standard-notes-themes/everforest/theme.css?v=1.1.0",
+"download_url": "https://ecliptic27.github.io/standard-notes-themes/everforest/theme.zip?v=1.1.0",
+"latest_url": "https://ecliptic27.github.io/standard-notes-themes/everforest/ext.json",
   "dock_icon": {
     "type": "circle",
     "background_color": "#2d353b",
