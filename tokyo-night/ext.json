@@ -5,9 +5,9 @@
   "area": "themes",
   "version": "1.0.0",
   "description": "A dark Standard Notes theme inspired by Tokyo Night.",
-  "url": "__BASE_URL__/tokyo-night/theme.css",
-  "download_url": "__BASE_URL__/tokyo-night/theme.zip",
-  "latest_url": "__BASE_URL__/tokyo-night/ext.json",
+ "url": "https://ecliptic27.github.io/standard-notes-themes/tokyo-night/theme.css",
+"download_url": "https://ecliptic27.github.io/standard-notes-themes/tokyo-night/theme.zip",
+"latest_url": "https://ecliptic27.github.io/standard-notes-themes/tokyo-night/ext.json",
   "dock_icon": {
     "type": "circle",
     "background_color": "#1a1b26",
