@@ -1,19 +1,20 @@
+
 /* Original Standard Notes adaptation of the Everforest Dark palette. */
 :root {
   color-scheme: dark;
   --sn-stylekit-background-color: #2d353b;
   --sn-stylekit-foreground-color: #d3c6aa;
   --sn-stylekit-paragraph-text-color: #d3c6aa;
-  --sn-stylekit-border-color: #859289;
+  --sn-stylekit-border-color: #475258;
   --sn-stylekit-contrast-background-color: #343f44;
   --sn-stylekit-contrast-foreground-color: #d3c6aa;
-  --sn-stylekit-contrast-border-color: #859289;
+  --sn-stylekit-contrast-border-color: #475258;
   --sn-stylekit-secondary-background-color: #272e33;
   --sn-stylekit-secondary-foreground-color: #9da9a0;
-  --sn-stylekit-secondary-border-color: #859289;
+  --sn-stylekit-secondary-border-color: #475258;
   --sn-stylekit-secondary-contrast-background-color: #343f44;
   --sn-stylekit-secondary-contrast-foreground-color: #d3c6aa;
-  --sn-stylekit-secondary-contrast-border-color: #859289;
+  --sn-stylekit-secondary-contrast-border-color: #475258;
   --sn-stylekit-editor-background-color: #2d353b;
   --sn-stylekit-editor-foreground-color: #d3c6aa;
   --sn-stylekit-info-color: #a7c080;
@@ -39,22 +40,22 @@
   --navigation-item-text-color: #d3c6aa;
   --navigation-item-count-color: #9da9a0;
   --navigation-item-selected-background-color: #475258;
-  --items-column-border-right-color: #859289;
+  --items-column-border-right-color: #475258;
   --items-column-search-background-color: #343f44;
   --item-cell-selected-background-color: #475258;
   --item-cell-selected-border-left-color: #a7c080;
   --preferences-navigation-icon-color: #9da9a0;
   --preferences-navigation-selected-background-color: #475258;
-  --panel-resizer-background-color: #859289;
+  --panel-resizer-background-color: #475258;
   --link-element-color: #a7c080;
   --sn-component-background-color: #2d353b;
   --sn-component-foreground-color: #d3c6aa;
   --sn-component-foreground-highlight-color: #a7c080;
-  --sn-component-outer-border-color: #859289;
-  --sn-component-inner-border-color: #859289;
+  --sn-component-outer-border-color: #475258;
+  --sn-component-inner-border-color: #475258;
   --sn-desktop-titlebar-bg-color: #272e33;
   --sn-desktop-titlebar-ui-color: #d3c6aa;
   --sn-desktop-titlebar-ui-hover-color: #a7c080;
-  --sn-desktop-titlebar-border-color: #859289;
+  --sn-desktop-titlebar-border-color: #475258;
 }
 ::selection { background: #a7c080; color: #2d353b; }
